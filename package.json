@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "dev:parcel": "parcel index.html"
+    "dev": "parcel index.html"
   },
   "dependencies": {
     "parcel": "^2.7.0",
